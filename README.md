@@ -1,1 +1,2 @@
-# Dice-rolling-simulator
+# Dice rolling simulator
+* simulation of a dice roll
